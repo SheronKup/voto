@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(31, 31, 31);
+    color: rgb(247, 241, 241);
+    font-size: 1.25rem;
+    font-weight: bold;
+}
+
+input, button{
+    background-color: black;
+    color: aliceblue;
+    border-radius: 8px;
+}
+
+input::placeholder{
+    color: white;
+}
+
+button:hover{
+    background-color: blueviolet;
+}
+
+button{
+    cursor: pointer;
+}
