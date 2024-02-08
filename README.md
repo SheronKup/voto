@@ -13,6 +13,7 @@ Estilo do sistema: voto_css
 -------------------------------------------------------------
 
 Product Owner: Carlos Silva
+
 Scrum Master: Sheron Kup
 
 Dev Team:
