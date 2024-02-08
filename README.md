@@ -8,7 +8,9 @@ interface com o usuário: voto.html
 estilo do sistema: voto.css
 
 Product Owner: Carlos Silva
+
 Scrum Master: Sheron Kup
+
 Dev team:
    - Enzo Reis
   - João Batista
